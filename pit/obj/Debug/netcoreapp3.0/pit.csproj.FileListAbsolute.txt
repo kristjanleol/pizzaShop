@@ -1,0 +1,11 @@
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\obj\Debug\netcoreapp3.0\pit.csprojAssemblyReference.cache
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\obj\Debug\netcoreapp3.0\pit.AssemblyInfoInputs.cache
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\obj\Debug\netcoreapp3.0\pit.AssemblyInfo.cs
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\bin\Debug\netcoreapp3.0\pit.exe
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\bin\Debug\netcoreapp3.0\pit.deps.json
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\bin\Debug\netcoreapp3.0\pit.runtimeconfig.json
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\bin\Debug\netcoreapp3.0\pit.runtimeconfig.dev.json
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\bin\Debug\netcoreapp3.0\pit.dll
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\bin\Debug\netcoreapp3.0\pit.pdb
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\obj\Debug\netcoreapp3.0\pit.dll
+C:\Users\Kristjan Leol\Desktop\programmeerimine\pit\pit\obj\Debug\netcoreapp3.0\pit.pdb
